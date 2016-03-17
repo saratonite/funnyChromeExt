@@ -1,0 +1,14 @@
+{
+  "name": "funnychromeext",
+  "version": "1.0.0",
+  "description": "Just for study",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sarath <sarath.hacks@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap-sass": "^3.3.6"
+  }
+}
